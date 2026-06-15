@@ -1,0 +1,5 @@
+Sample Document 1
+
+This is a sample text file for testing.
+It contains a few lines of plain text.
+You can use it for RAG ingestion experiments.

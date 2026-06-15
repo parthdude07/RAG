@@ -1,0 +1,21 @@
+Sample Document 2
+
+
+Deep Agents overview
+
+
+
+The easiest way to start building agents and applications powered by LLMs—with built-in capabilities for task planning, file systems for context management, subagent-spawning, and long-term memory. You can use deep agents for any task, including complex, multi-step tasks.
+Deep Agents is an “agent harness”. It is the same core tool calling loop as other agent frameworks, but with built-in capabilities that make agents reliable for real tasks:
+Take actions in an environment
+Take actions via tools, read and write files, execute code
+Connect to your data
+Load memories, skills, and domain knowledge at the right moment
+Manage growing context
+Summarize history and offload large results across long runs
+Parallelize tasks
+Delegate to general or specialized subagents running in isolated context windows
+Stay in the loop
+Pause for human approval at critical decision points
+Improve over time
+Update memory, skills, and prompts based on real usage
